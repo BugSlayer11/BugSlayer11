@@ -1,9 +1,4 @@
 👋 Hi, I’m @BugSlayer11! 
- 
-🌱 I’m currently learning...
-  
-	a. Python
-	b. Automation and frameworks with Cucumber and Selenium Webdriver
   
 📫 You can reach me at... 
 
