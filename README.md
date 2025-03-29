@@ -2,7 +2,7 @@
   
 📫 You can reach me at... 
 
-	christina.mast11@gmail.com.
+	christina.mast11@gmail.com or 618.201.6956. 
   
 
 <!---
